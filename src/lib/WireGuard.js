@@ -11,6 +11,8 @@ const Util = require('./Util');
 const ServerError = require('./ServerError');
 
 const {
+  WG_POSTUP,
+  WG_POSTDN,
   WG_PATH,
   WG_HOST,
   WG_PORT,
